@@ -29,4 +29,4 @@
 13. Go to [Sublime text website](https://www.sublimetext.com)
 14. Click on Download. Move the downloaded application from Downloads folder to the Applications folder.
 15. Open Sublime Text app. Write a normal program and press Cmd + B. You should see an output in the window.
-16. ![](assets/20240817_185316_image.png)
+![](assets/20240817_185316_image.png)
